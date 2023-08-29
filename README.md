@@ -15,7 +15,7 @@
 
 ***This is the book for beginners who are fond of creating web based data visualizations. We will be introduced about one of the famous tool called D3.js which helps us to integrate these engaging visualizations to the web using Java Script. In this course we will make a tour on how to assign data to visuals and how we can create interactive visuals also web based technologies.***
 
-_Author Information: "**Scott Murray** is an assistant professor at University of San Franscisco who teaches and designs interactive data visualizations" (Murray, S.(n.d.).Scott Murray._ (https://www.oreilly.com/people/scott-murray/)_)_
+_Author Information: "**Scott Murray** is an assistant professor at University of San Franscisco who teaches and designs interactive data visualizations" (Murray, S.(n.d.).Scott Murray.(https://www.oreilly.com/people/scott-murray/))_
 
 _URL: [Interactive Data Visualization for the Web](https://learning.oreilly.com/library/view/interactive-data-visualization/9781449340223/cover.html)_
 
